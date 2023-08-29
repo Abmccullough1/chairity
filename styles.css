@@ -1,0 +1,28 @@
+
+body {
+    background-color: chocolate;
+    font-size: 15pt;
+    color: white;
+}
+.image1{
+    height: 70px;
+    position: absolute;left:0px;
+    position: absolute;top:0px;
+
+}
+.image2{
+    height: 200px; 
+    position: absolute; bottom: 10px;
+    position: absolute;left: 10px;
+}
+.image3{
+    height: 200px;
+    position: absolute;right:10px;
+    position: absolute;bottom: 10px;
+}
+.button{
+    position: absolute;bottom: 0px; 
+    position: absolute;left: 600px;
+    font-size: 30pt; color:white;
+    background-color: red;
+}
